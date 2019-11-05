@@ -27,6 +27,4 @@ This website is an Akan Name generator, that generates names based on the day yo
 - GIT version control
 
 ## Support and contact details
-
-- kiprotichkorir36@gmail.com
-- Facebook https://www.facebook.com/iamdommie/
+- Find Me On Facebook https://www.facebook.com/iamdommie/
